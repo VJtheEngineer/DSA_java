@@ -5,7 +5,8 @@ import java.util.*;
 public class Input
 {
 	public static void main(String[] args) {
-	    
+	    //input and output
+        
 	    Scanner scn = new Scanner(System.in);
 	    
         String str1 = scn.next();
